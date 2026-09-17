@@ -40,23 +40,23 @@
 
 ---
 
-# 🤎 About Me
+#  About Me
 
 I'm a Computer Science & Engineering student interested in software development and building practical real-world applications.
 
-- 🎓 **B.E. Computer Science & Engineering — 2027**
-- 💻 **Interested in Software Development**
-- 🐍 **Learning and working with Python**
-- 🌐 **Exploring Web Development**
-- 📚 **Improving Data Structures & Algorithms**
-- 🚀 **Interested in building real-world applications**
-- 🔍 **Always learning and improving my technical skills**
+-  **B.E. Computer Science & Engineering — 2027**
+-  **Interested in Software Development**
+-  **Learning and working with Python**
+-  **Exploring Web Development**
+-  **Improving Data Structures & Algorithms**
+-  **Interested in building real-world applications**
+-  **Always learning and improving my technical skills**
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Programming & Web
+###  Programming & Web
 
 <p>
 <img src="https://img.shields.io/badge/Python-8B6F47?style=for-the-badge&logo=python&logoColor=white"/>
@@ -65,14 +65,14 @@ I'm a Computer Science & Engineering student interested in software development 
 <img src="https://img.shields.io/badge/CSS3-5C4632?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ⚛️ Frameworks & Backend
+###  Frameworks & Backend
 
 <p>
 <img src="https://img.shields.io/badge/React-8B6F47?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-5C4632?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🗄️ Database & Tools
+###  Database & Tools
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-8B6F47?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -94,13 +94,13 @@ A web-based attendance management system designed to automate attendance using f
 
 **✨ Key Features**
 
-- 👤 Face recognition based attendance
-- 🛡️ Anti-spoofing / liveness detection
-- 🔐 Secure admin authentication
-- 📊 Attendance dashboard
-- 🗄️ MySQL database integration
-- 📄 Attendance records and CSV export
-- 🌐 Frontend and backend deployment
+-  Face recognition based attendance
+-  Anti-spoofing / liveness detection
+-  Secure admin authentication
+-  Attendance dashboard
+-  MySQL database integration
+-  Attendance records and CSV export
+-  Frontend and backend deployment
 
 🔗 **[View Project on GitHub](https://github.com/Amithn1234/Face-Recognition-Attendance)**
 🔗 **[View Live Project](https://face-recognition-attendance-blond.vercel.app/)**
@@ -120,32 +120,7 @@ A web-based attendance management system designed to automate attendance using f
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amithn1234&show_icons=true&theme=cobalt&hide_border=true&bg_color=1a1a1a&title_color=8B6F47&icon_color=8B6F47&text_color=c9c9c9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amithn1234&layout=compact&theme=cobalt&hide_border=true&bg_color=1a1a1a&title_color=8B6F47&text_color=c9c9c9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amithn1234&theme=cobalt&hide_border=true&background=1a1a1a&ring=8B6F47&fire=8B6F47&currStreakLabel=8B6F47" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amithn1234&theme=nord&no-frame=true&row=1&column=6" />
-
-</div>
-
----
 
 # 🤝 Let's Connect
 
