@@ -54,32 +54,39 @@ I'm a Computer Science & Engineering student interested in software development 
 
 ---
 
+
 #  Tech Stack
 
-###  Programming & Web
+### Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-8B6F47?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-5C4632?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-8B6F47?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-5C4632?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-8B6F47?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-5C4632?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-###  Frameworks & Backend
+### Frameworks & Tools
 
 <p>
-<img src="https://img.shields.io/badge/React-8B6F47?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-5C4632?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-8B6F47?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/FASTAPI-5C4632?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPENCV-8B6F47?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-5C4632?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-###  Database & Tools
+### Database & Cloud
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-8B6F47?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-5C4632?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-8B6F47?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-5C4632?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-8B6F47?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-8B6F47?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-5C4632?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINUX-8B6F47?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+### Editor
+
+<p>
+<img src="https://img.shields.io/badge/VS%20CODE-5C4632?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
