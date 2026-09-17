@@ -62,6 +62,7 @@ to automate attendance marking.
 
 - 🧠 Data Structures & Algorithms
 - 🐍 Python
+- 🐧 Linux
 - 🌐 Web Development
 - 🔧 Backend Development
 
