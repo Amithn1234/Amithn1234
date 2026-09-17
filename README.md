@@ -2,7 +2,7 @@
 
 #  AMITH N
 
-### B.E. Computer Science & Engineering Student
+### B.E. Computer Science & Engineering 
 
 **Aspiring Software Developer • 2027**
 
