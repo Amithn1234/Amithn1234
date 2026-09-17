@@ -25,7 +25,7 @@
 
 <div align="center">
 
-###  STUDENT &nbsp;&nbsp; | &nbsp;&nbsp;  INDIA &nbsp;&nbsp; | &nbsp;&nbsp;  SOFTWARE DEVELOPMENT
+### 🎓 STUDENT &nbsp;&nbsp; | &nbsp;&nbsp; 📍 INDIA &nbsp;&nbsp; | &nbsp;&nbsp;  💻 SOFTWARE DEVELOPMENT
 
 </div>
 
