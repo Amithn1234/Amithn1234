@@ -1,85 +1,81 @@
-<div align="center">
+# Hi 👋, I'm Amith N
 
-#  AMITH N
+### 💻 Computer Science & Engineering Student | Aspiring Software Developer
 
-### B.E. Computer Science & Engineering Student
-### Aspiring Software Developer • 2027
+I'm a final-year Computer Science & Engineering student interested in
+software development, Python, web technologies, cybersecurity, and AI.
 
-**Code • Learn • Build • Grow**
-
-</div>
-
----
-
-<div align="center">
-
-## 🌿 WELCOME TO MY GITHUB
-
-### Turning ideas into real-world solutions.
-
-**Build → Learn → Improve → Repeat**
-
-</div>
+I enjoy learning new technologies and building practical projects that
+solve real-world problems.
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-| 🎓 **STATUS** | 📍 **LOCATION** | 💻 **INTEREST** |
-|:---:|:---:|:---:|
-| **STUDENT** | **INDIA** | **SOFTWARE DEVELOPMENT** |
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B6F47?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amith-n-cse/)
-[![GitHub](https://img.shields.io/badge/GitHub-5C4632?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amithn1234)
-
-</div>
+- 🎓 BE Computer Science & Engineering
+- 💻 Currently improving my programming and development skills
+- 🐍 Learning Python and Data Structures & Algorithms
+- 🌐 Interested in Web Development
+- 🤖 Interested in Artificial Intelligence & Generative AI
+- 🔐 Exploring Cybersecurity & Digital Forensics
+- ☁️ Learning Cloud and Deployment technologies
+- 📚 Always learning and building projects
 
 ---
 
-#  About Me
+## 🛠️ Skills & Technologies
 
-<table>
-<tr>
-<td width="60%">
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
 
-I'm a Computer Science & Engineering student interested in building practical software applications and improving my programming skills.
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-🎓 **B.E. Computer Science & Engineering — 2027**
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-💻 **Interested in Software Development**
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
-🐍 **Learning Python & Backend Development**
+---
 
-🌐 **Exploring Full-Stack Web Development**
+## 📌 Featured Projects
 
-🧠 **Currently improving DSA & Problem Solving**
+### 🔐 Smart Attendance Management System
 
-🚀 **Building projects to gain hands-on experience**
+A face-recognition based attendance management system designed to
+automate student attendance.
 
-</td>
+**Technologies:**
+- React.js
+- Tailwind CSS
+- Python
+- FastAPI
+- OpenCV
+- InsightFace / ArcFace
+- MySQL
+- JWT Authentication
 
-<td width="40%">
+---
 
-```text
-NAME
-Amith N
+### 🔎 ChronousForensic
 
-ROLE
-Student
-Aspiring Software Developer
+An AI-assisted digital forensics project focused on improving
+evidence synthesis and interpretation.
 
-FOCUS
-Python
-Web Development
-Backend Development
+**Areas:**
+- Digital Forensics
+- Generative AI
+- NLP
+- IOC Analysis
+- MITRE ATT&CK
 
-PHILOSOPHY
-Keep learning.
-Keep building.
-Keep improving.
+<p> <a href="https://www.linkedin.com/in/amith-n-cse"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
