@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤎 AMITH N
+#  AMITH N
 
 ### B.E. Computer Science & Engineering Student
 ### Aspiring Software Developer • 2027
@@ -42,7 +42,7 @@
 
 ---
 
-# 🤎 About Me
+#  About Me
 
 <table>
 <tr>
