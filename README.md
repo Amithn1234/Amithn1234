@@ -107,15 +107,15 @@ A web-based attendance management system designed to automate attendance using f
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 ```text
-🧠 Data Structures & Algorithms
-🐍 Python
-🐧 Linux
-🌐 Web Development
-🔧 Backend Development
-💡 Problem Solving
+ Data Structures & Algorithms
+ Python
+ Linux
+ Web Development
+ Backend Development
+ Problem Solving
 ```
 
 ---
