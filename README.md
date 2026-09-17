@@ -54,7 +54,7 @@ I'm a Computer Science & Engineering student interested in software development 
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ###  Programming & Web
 
@@ -84,7 +84,7 @@ I'm a Computer Science & Engineering student interested in software development 
 
 ---
 
-# 🚀 Featured Project
+#  Featured Project
 
 ### 📸 Smart Attendance Management System
 
