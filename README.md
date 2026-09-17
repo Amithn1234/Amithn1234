@@ -25,7 +25,7 @@
 
 <div align="center">
 
-### 🎓 STUDENT &nbsp;&nbsp; | &nbsp;&nbsp; 📍 INDIA &nbsp;&nbsp; | &nbsp;&nbsp; 💻 SOFTWARE DEVELOPMENT
+###  STUDENT &nbsp;&nbsp; | &nbsp;&nbsp;  INDIA &nbsp;&nbsp; | &nbsp;&nbsp;  SOFTWARE DEVELOPMENT
 
 </div>
 
@@ -137,7 +137,7 @@ I'm always open to collaborating on projects, learning new things, and connectin
 
 <div align="center">
 
-### 🤎 Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 `"Keep learning. Keep building. Keep improving."`
 
